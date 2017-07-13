@@ -1,0 +1,9 @@
+This project is a part of my class assignment in Quality Assurance and Automation class (CS 522) at Northwestern Polytechnic University.
+1) Create a xlsx sheet with multiple rows and columns data (e.g. Username and dummy password etc.) 
+2) create a Java Selenium WebDriver test case using TestNG framework to test NPU student login to drive data line by line from a xlsx sheet and write data (running result) to the xlsx sheet 
+3) Using as much as function method calls 
+4) Using TestNG annotations @BeforeTest, @AfterTest, @BeforeMethod, @AfterMethod and @Test 
+5) Using your First Name + “ “ + Last Name as “username” and your student id as “Password” when you submit homework 
+(you can use your or your team member’s login name and password to debug) 
+ 
+You should submit a zip files including one xlsx (data), one automation test case (java) and one test-output report file (html) 
