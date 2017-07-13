@@ -1,0 +1,5 @@
+his project is a part of my class assignment in Quality Assurance and Automation class (CS 522) at Northwestern Polytechnic University.
+We had team of two members. My team mate basically did the documentation and presentation part. I did the coding part.
+Here we have designed a program which will find out the product we want to search (eg iWatch here) and adds to carts, checks out and thus completes the order process.
+We have used excel sheet to provide all the necessary informations(credentials)
+You might notice that our report shows that the test case failed. Its because I didnt used my real card number to buy product. However, it works when I tried to buy inexpensive product using the same app.
