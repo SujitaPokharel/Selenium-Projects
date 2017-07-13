@@ -1,0 +1,5 @@
+This project is a part of my class assignment in Quality Assurance and Automation class (CS 522) at Northwestern Polytechnic University.
+I was asked to Write a Selenium WebDriver automation test case to create a new account in NPU online application (using Junit framework), you don’t need to finish the last step really create a new account, but should follow up each test case step requirement, and include
+Create a log file to record each test case step;
+Take a screenshot for each step;
+Use @BeforeClass, @AfterClass, @Before, @After and @Test annotations
